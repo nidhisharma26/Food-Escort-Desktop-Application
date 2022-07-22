@@ -8,6 +8,8 @@
 
 ![empty cart](https://user-images.githubusercontent.com/55579282/180574895-a5f05ba5-2452-437c-8be6-bba9d0f801a6.png)
 
+![image](https://user-images.githubusercontent.com/55579282/180575105-cca86772-8d61-480d-a863-41657c2fd9fd.png)
+
 ![desserts added to cart](https://user-images.githubusercontent.com/55579282/180574543-e8f48a69-3f20-4d97-b0c1-13edf069e61e.png)
 
 ![databse connection](https://user-images.githubusercontent.com/55579282/180574709-7398f822-561e-436f-95ea-8680f6252d91.png)
