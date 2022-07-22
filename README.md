@@ -16,3 +16,5 @@
 
 ![billing section](https://user-images.githubusercontent.com/55579282/180574830-355efa55-3251-42f2-a3a6-cd9841576b8c.png)
 
+![payment successful](https://user-images.githubusercontent.com/55579282/180575188-c4952727-b9a0-446a-8a45-df327543f759.png)
+
