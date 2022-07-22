@@ -4,4 +4,5 @@
 ![nidhi login](https://user-images.githubusercontent.com/55579282/180574408-1e1e3919-dc6a-4036-8f2d-2e1d06f35a0d.png)
 ![desserts added to cart](https://user-images.githubusercontent.com/55579282/180574543-e8f48a69-3f20-4d97-b0c1-13edf069e61e.png)
 ![databse connection](https://user-images.githubusercontent.com/55579282/180574709-7398f822-561e-436f-95ea-8680f6252d91.png)
+![billing section](https://user-images.githubusercontent.com/55579282/180574830-355efa55-3251-42f2-a3a6-cd9841576b8c.png)
 
